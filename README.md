@@ -7,3 +7,6 @@ This project was created by me just to evaluate myself, to check how well I unde
 
 ## project URL
 project url: https://abdulll3656.github.io/Roadmap.sh-HTML-project/
+
+## project page URL
+https://roadmap.sh/projects/basic-html-website
